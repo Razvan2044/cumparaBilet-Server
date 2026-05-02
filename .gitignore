@@ -1,0 +1,11 @@
+# Fisiere de mediu si secrete
+.env
+
+# Baza de date locala
+*.db
+
+# Mediul virtual Python
+venv/
+
+# Fisiere temporare Python
+__pycache__/
